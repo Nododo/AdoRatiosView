@@ -1,0 +1,14 @@
+.DS_Store
+*/.DS_Store
+.*.swp
+.clang_complete
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+UserInterfaceState.xcuserstate
+UserInterface.xcuserstate
+#CocoaPods
+Pods/
+Podfile.lock
+*.xcworkspace
+xcuserdata
+xcuserdata/
